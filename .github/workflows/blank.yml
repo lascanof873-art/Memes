@@ -215,4 +215,3 @@ jobs:
           Write-Host "PC ativo - $(Get-Date)"
           Start-Sleep -Seconds 60
         }
-        
